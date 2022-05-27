@@ -1,20 +1,29 @@
 # TELEGRAM BOT
-telegram bot using python and telebot framework deployed on heroku :)
+Telegram Bot using python and telebot framework deployed on heroku :)
 
 # Features:
 1. /apod
-   -Provides the Astronomy Picture of the Day YYYY-MM-DD format
+   - Provides the Astronomy Picture of the Day YYYY-MM-DD format
+     - Example: /apod YYYY-MM-DD
 2. /dict
-   -Provide the part of speech and definition of the word
-3. /qr
-   -Generates a qr code
-4. /smovie
-   -Provide the title, year, released date, director, plot, ratings, etc. of the movie
-5. /tiktokdl
-   -Downloads a tiktok video without watermark
-6. /ufacts
-   -Send useless facts
-7. Still Updating every new ideas.
+   - Provide the part of speech and definition of the word
+     - Example: /dict word
+3. /horoscope
+   - Provide the horoscope of your sign
+     - Example: /horoscope gemini
+4. . /qr
+   - Generates a qr code
+     - Example: /qr Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+5. /smovie
+   - Provide the title, year, released date, director, plot, ratings, etc. of the movie
+     - Example: /smovie Men in Black
+6. /tiktokdl
+   - Downloads a tiktok video without watermark
+     - Example: /tiktokdl tiktoklink
+7. /ufacts
+   - Send useless facts
+     - Just send /ufacts
+8. Still Updating every new ideas.
 
 # APIs
 - Some APIs got from this [Github Repo](https://github.com/public-apis/public-apis)
