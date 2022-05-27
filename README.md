@@ -23,7 +23,7 @@ Telegram Bot using python and telebot framework deployed on heroku :)
 7. /ufacts
    - Send useless facts
      - Just send /ufacts
-8. Still Updating every new ideas.
+8. Updates every new ideas come up.
 
 # APIs
 - Some APIs got from this [Github Repo](https://github.com/public-apis/public-apis)
