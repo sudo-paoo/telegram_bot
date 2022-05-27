@@ -1,5 +1,5 @@
 # TELEGRAM BOT
-Telegram Bot using python and telebot framework deployed on heroku :)
+Telegram Bot using python and [telebot](https://github.com/eternnoir/pyTelegramBotAPI) framework deployed on heroku :)
 
 # Features:
 1. /apod
